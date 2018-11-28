@@ -20,7 +20,7 @@ https://whatwebcando.today/
 ```
 https://pwa.rocks/
 ```
-###### [Projeto Falando na talk](https://github.com/FranciscoWallison/Laravel-Vue.js)
+###### [Exemplo projeto na talk](https://github.com/FranciscoWallison/Laravel-Vue.js)
 ```
 https://github.com/FranciscoWallison/Laravel-Vue.js
 ``` 
