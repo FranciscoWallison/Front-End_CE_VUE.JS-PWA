@@ -11,14 +11,18 @@ Como objetivo de apresentar um pouco sobre VUE.JS e os conceitos sobre Progressi
 
 ##### Link's
 
-###### O que pode ser utilizado 
+###### [O que pode ser utilizado](https://whatwebcando.today/) 
 ```
 https://whatwebcando.today/
 ```
 
-
-###### Exemplos de sites com pwa
+###### [Exemplos de sites com pwa](https://pwa.rocks/)
 ```
 https://pwa.rocks/
 ```
+###### [Projeto Falando na talk](https://github.com/FranciscoWallison/Laravel-Vue.js)
+```
+https://github.com/FranciscoWallison/Laravel-Vue.js
+``` 
+
 
