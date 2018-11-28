@@ -15,7 +15,7 @@ Como objetivo de apresentar um pouco sobre VUE.JS e os conceitos sobre Progressi
 ```
 https://github.com/vuejs-templates/pwa
 ```
-###### [O que pode ser utilizado](https://whatwebcando.today/) 
+###### [Uma visão geral das APIs HTML5 de integração de dispositivos.](https://whatwebcando.today/) 
 ```
 https://whatwebcando.today/
 ```
