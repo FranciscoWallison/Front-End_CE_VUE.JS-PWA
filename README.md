@@ -16,7 +16,7 @@ Como objetivo de apresentar um pouco sobre VUE.JS e os conceitos sobre Progressi
 https://whatwebcando.today/
 ```
 
-###### [Exemplos de sites com pwa](https://pwa.rocks/)
+###### [Exemplos de PWA](https://pwa.rocks/)
 ```
 https://pwa.rocks/
 ```
