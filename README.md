@@ -6,7 +6,7 @@
 
 ##### Talk
 ```
-Como objetivo de apresentar um pouco sobre VUE.JS e os conceitos do Progressive web apps. 
+O objetivo de apresentar um pouco sobre VUE.JS e os conceitos do Progressive web apps. 
 ```
 
 ##### Link's
